@@ -1,7 +1,7 @@
 # Winter Boardgames Design Accelerator
 ###### METIS Data Science and Machine Learning Bootcamp 2022 by Krystian Krystkowiak
 ###### project/month(3/7) focus: BUSINESS/EDA
-#### Code [GitHub](https://github.com/Krystkowiakk/IMDB-TV-Rating-Predictor/blob/06f183158df96d5fe78f44f189b8cda11be0efdf/1.%20METIS_Krystkowiak_Krystian_Project_2_Regression%20-%20scraping.ipynb)
+#### Tableau [Tableau](https://public.tableau.com/views/Metis-Project-3-Business-on-BGG/Dashboard4_1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 #### Presentation [GitHub](https://github.com/Krystkowiakk/Metis-Project-1-EDA-on-MTA/blob/372cfd21b3e998a53f0f57ddaba1de06e52a37d3/Project%20Presentation/METIS_Krystkowiak_Krystian_Project_1_EDA.pdf)
 
 ABSTRACT
@@ -36,9 +36,7 @@ TOOLS
 
 COMMUNICATION
 
-In this project, I presented the findings through slides and visualizations created using Google Sheets and Tableau. Links to these resources are included in the project for further reference.
-
-Google sheets: https://docs.google.com/spreadsheets/d/16DLsIraKjMeK2INhBotRjbkUvpUlMT2h0GEUT7ioyPo/edit?usp=sharing Tableau: https://public.tableau.com/views/Metis-Project-3-Business-on-BGG/Dashboard4_1?:language=en-GB&:display_count=n&:origin=viz_share_link
+In this project, I presented the findings through slides and visualizations created using Google Sheets and Tableau.
 
 ![Winter Boardgames Design Accelerator](files/cover.jpg)
 
