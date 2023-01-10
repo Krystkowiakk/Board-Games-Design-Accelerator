@@ -1,4 +1,4 @@
-# Winter Boardgames Design Accelerator
+# Winter Board Games Design Accelerator
 ###### METIS Data Science and Machine Learning Bootcamp 2022 by Krystian Krystkowiak
 ###### project/month(3/7) focus: BUSINESS/EDA
 #### Dashboard [Tableau](https://public.tableau.com/views/Metis-Project-3-Business-on-BGG/Dashboard4_1?:language=en-GB&:display_count=n&:origin=viz_share_link)
