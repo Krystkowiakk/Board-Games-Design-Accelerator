@@ -31,7 +31,6 @@ ALGORITHMS
 TOOLS
 
 - Google Sheets: Used for exploratory data analysis and visualization
-
 - Tableau: Used for creating interactive visualizations of the data
 
 COMMUNICATION
