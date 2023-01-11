@@ -38,6 +38,6 @@ COMMUNICATION
 
 In this project, I presented the findings through slides and visualizations created using Google Sheets and Tableau.
 
-![Winter Boardgames Design Accelerator](files/cover.jpg)
+![Board Games Design Accelerator](files/cover.jpg)
 
 
